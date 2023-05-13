@@ -32,3 +32,5 @@ define("JUROS", 0.01);
 // concatecação com "."
 echo "Taxa " . TAXA . "%<br>";
 echo "Juros " . JUROS . "%<br>";
+
+echo "Testando usuário git";
